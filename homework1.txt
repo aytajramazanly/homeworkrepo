@@ -1,0 +1,33 @@
+●	Proqramlaşdırma nədir?
+
+Kompyuterə verilən əmrlərin necə yerinə yetirilməsini izah edən göstərişləri yaratma prosesidir.
+
+●	Software nədir və kompüterdə necə emal olunur?
+
+Software kompyuteri idarə etmək və müəyyən əmrləri yerinə yetirməyi təmin edən təlimatlar toplusudur.  Software olmadığı zaman, kompyuter işlevsel olmur və sadəcə kod, əmr yazıla biləcək qara bir ekrandan ibarət olur.
+
+●	Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+
+Programlaşdırma dillərini platforma ve paradigma olaraq iki xüsusiyyətinə görə qruplaşdıra bilərik:
+
+●	Programlaşdırma Platformaları:
+
+➢	Desktop ( windows, linux, macOS…)
+➢	Mobile ( İOS,Android…)
+
+
+●	Programlaşdırma Paradigmaları:
+
+➢	 İmperative 
+➢	İmperative paradigmanı “Əvvəlcə bunu et, sonra da bunu et” ifadəsi ilə izah edə bilərik. Bu ifadədən də anlaşılacağı üzərə, burada əmrlərin ardıcıllığı,sırası vacibdir. İmperative paradigmaları da öz içində Procedural və object-oriented olaraq ayıra bilərik. 
+➢	Declarative
+➢	Declarative paradigma da Functional, Logical, Mathematical, Dataflow və s. kimi bir neçə alt paradigmaya ayrılır. 
+
+   
+Programlaşdırma paradigmalarında Procedural və Functional ikisi də ardıcıllıq istəyir. Lakin bu ikisi arasında fərq ondadır ki, Prosedural paradigma da məsələn, K+10 
+əmri verilir. Burada hər dəfə bu əmr çağırıldıqda K+10 yerinə yetiriləcək. Lakin eyni əmr Functional paradigmada çağırıldıqda kompyuter bizdən K`nın nə olduğunu bəyan etməmizi istəyəcək. 
+Object-oriented alt paradigması isə bizə programlaşdırma dili içərisində hərhansı bir obyekt simulasyonu yaratma imkanı verir.
+
+ 
+
+           
